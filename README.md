@@ -2,7 +2,7 @@
 
 ## Overview
 
-Oragnizes files from the downloads folder into seperate folders 
+Organizes files from the downloads folder into separate folders when it runs. 
 
 ## Installation
 
