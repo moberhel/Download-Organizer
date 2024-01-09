@@ -6,4 +6,5 @@ Oragnizes files from the downloads folder into seperate folders
 
 ## Installation
 
-  pip install watchdog
+Watchdog Installation
+    pip install watchdog
